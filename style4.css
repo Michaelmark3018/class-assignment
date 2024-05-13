@@ -1,0 +1,35 @@
+/* INTERNAL CSS */
+body{
+    background-color: aqua;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: yellow;
+}
+
+/* #p1{
+    color: blueviolet;
+}
+#p2{
+    color: aquamarine;
+}
+#p3{
+    color: darkgreen;
+}
+#p4{
+    color: gold;
+}
+#p5{
+    color: brown;
+}
+#p6{
+    color: midnightblue;
+} */
+.odd{
+    color: blue;
+}
+.odd{
+    color: violet;
+}

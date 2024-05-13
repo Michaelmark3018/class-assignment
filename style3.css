@@ -1,0 +1,37 @@
+/* HOW TO STYLE WITH EXTERNAL CSS */
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+}
+h2{
+    color: red;
+}
+
+/* #p1{
+    color: greenyellow;
+}
+#p2{
+    color: blue;
+}
+#p3{
+    color: darkslategrey;
+}
+#p4{
+    color: chocolate;
+}
+#p5{
+    color: crimson;
+}
+#p6{
+    color: gold;
+}
+*/
+
+.odd{
+    color: aliceblue;
+} 
+.even{
+    color: brown;
+}

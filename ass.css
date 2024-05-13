@@ -1,0 +1,48 @@
+/* EXTERNAL CSS */
+body{
+    background-color: bisque
+}
+#h1{
+    font-style: initial;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    color: aqua;
+}
+p{
+    color: blueviolet;
+    padding: 3px 3px;
+}
+#m10{
+    color: cadetblue;
+    padding: 3px 3px;
+}
+#jay1{
+    color: cornflowerblue;
+    padding: 3px 3px;
+}
+#jay2{
+    color: darkblue;
+    padding: 3px 3px;
+}
+#jay3{
+    color: hotpink;
+    padding: 3px 3px;
+}#by1{
+    color: blue;
+    padding: 3px 3px;
+}
+#by2{
+    color: crimson;
+    padding: 3px 3px;
+}
+#by3{
+    color: darkblue;
+    padding: 3px 3px;
+}
+/*  */
+.odd{
+    color: darkslategrey;
+}
+.even{
+    color: darkred;
+}
